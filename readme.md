@@ -1,4 +1,4 @@
-# StoryBook Demo
+# StoryBook Demooo
 
 This repository contains a demo application to help beginners understand and use **Storybook**. Storybook is an open-source tool for developing UI components in isolation. It enables you to create and showcase components independently of your application, making it easier to visualize, document, and test them.
 
