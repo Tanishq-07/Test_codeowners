@@ -52,14 +52,14 @@ Storybook will open a new browser window where you can explore all the documente
 Here’s the structure of the project:
 
 ```
-├── src/                    # Application source code
-│   ├── components/          # React components and Storybook stories
-│   │   ├── MyComponent.js   # Component code
-│   │   ├── MyComponent.stories.js   # Storybook stories for MyComponent
-│   │   ├── AnotherComponent.js  # Another component code
+├── src/                                 # Application source code
+│   ├── components/                      # React components and Storybook stories
+│   │   ├── MyComponent.js               # Component code
+│   │   ├── MyComponent.stories.js       # Storybook stories for MyComponent
+│   │   ├── AnotherComponent.js          # Another component code
 │   │   ├── AnotherComponent.stories.js  # Storybook stories for AnotherComponent
-├── .storybook/              # Storybook configuration
-├── package.json             # Project metadata and dependencies
+├── .storybook/                          # Storybook configuration
+├── package.json                         # Project metadata and dependencies
 ```
 
 ## Adding New Stories
