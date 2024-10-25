@@ -2,11 +2,7 @@
 
 This repository contains a demo application to help beginners understand and use **Storybook**. Storybook is an open-source tool for developing UI components in isolation. It enables you to create and showcase components independently of your application, making it easier to visualize, document, and test them.
 
-## Features
-- Set up and use Storybook for a React app.
-- Create and display components in Storybook.
-- Visualize different states of components (e.g., with different props).
-- Document and test your UI components effectively.
+
 
 ## Prerequisites
 To use this demo, you'll need to have the following installed on your machine:
