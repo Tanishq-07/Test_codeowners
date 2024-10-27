@@ -1,8 +1,6 @@
 
 # All files in the repository
 
-./** @Tanishq-07
-/src/ @Tanishq-26
-/.github @harshal-tg
-
-/test @harshal-tg
+* @Tanishq-26
+/src/Edp/** @Tanishq-07
+/src/Faculty/** @harshal-tg
