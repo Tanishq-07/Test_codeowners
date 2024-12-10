@@ -1,5 +1,1 @@
-Here is the list of Updated schemas
-
-sfa
-safdfas
-dfsfdsd
+schemas updated
