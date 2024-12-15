@@ -1,12 +1,8 @@
 Here are the common tasks of edp users : 
 fafsddf
 fafsddfafsda
-<<<<<<< HEAD
-fsadfadsa
-asddfsaf
-dfasfdads
-=======
 fsadfadsaasdfas
 asdfsdaf
 afsdfas
->>>>>>> e02cf6b2ec3035a49df1ccec369b59d447223e52
+dfasfadsfa
+fsadfadsaasdfas
